@@ -1,4 +1,4 @@
-# CarMax Analytics Showcase Winter 2024
+# CarMax Analytics Showcase Fall 2024
 
 ## Welcome to the CarMax Analytics Showcase Repo!
 
