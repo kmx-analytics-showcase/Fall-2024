@@ -14,6 +14,7 @@ Disclaimer: This is pseudorandomly generated and manipulated CarMax data. No dat
 Relevant Files:
 * `Fall 2024 dataset.csv` - *the data set containing the relevant KMX purchases and non-purchases to be used in analysis*
 * `Fall 2024 Showcase Data Dictionary.xlsx` - *information about each feature in the data set*
+* `CarMax Analytics Showcase Skeleton Template.pptx` - *slide template suggestion, for reference. Use is not required.*
 
 ### Challenge
 **CarMax is considering opening new stores in the United States. How should marketing and inventory strategy be approached to drive maximum sales depending on the location of the new store?**
